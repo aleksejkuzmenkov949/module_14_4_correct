@@ -17,7 +17,7 @@ print(products)
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '6439882866:AAHkrWNj7oQ7lFXPmKseM9X4GJ_G5x-LX64'
+API_TOKEN = ''
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
